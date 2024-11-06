@@ -1,7 +1,3 @@
-# Linux-IPC--Pipes
-Linux-IPC-Pipes
-
-
 # Ex03-Linux IPC - Pipes
 
 # AIM:
@@ -120,6 +116,7 @@ to check pipe
 
 
 ## OUTPUT
+![Screenshot 2024-11-06 051907](https://github.com/user-attachments/assets/9e3d2602-83fa-4dc1-a696-06db73a3a8a0)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -142,6 +139,7 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
+![Screenshot 2024-11-06 051942](https://github.com/user-attachments/assets/335ef4cb-8866-47a1-93e1-d8ab9a5684fa)
 
 
 # RESULT:
